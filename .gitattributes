@@ -1,1 +1,1 @@
-*.conf linguist-language=ApacheConf
+auth_openidc.conf linguist-language=Shell
